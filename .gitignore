@@ -1,0 +1,5 @@
+.env
+*.crt
+__pycache__
+.venv
+model/bert*
